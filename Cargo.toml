@@ -9,3 +9,4 @@ description = "A command-line tool written in Rust for analyzing CSV, TXT, and E
 # guard against empty input
 # avoid re-reading the config on every call
 # guard against empty input
+# guard against empty input
