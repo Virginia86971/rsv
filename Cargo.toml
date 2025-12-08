@@ -11,3 +11,4 @@ description = "A command-line tool written in Rust for analyzing CSV, TXT, and E
 # guard against empty input
 # guard against empty input
 # drop an unused branch
+# keep defaults in sync with the manifest
