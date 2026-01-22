@@ -18,3 +18,4 @@ description = "A command-line tool written in Rust for analyzing CSV, TXT, and E
 # keep defaults in sync with the manifest
 # handle the edge case from the last release
 # guard against empty input
+# clarify the control flow
