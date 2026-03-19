@@ -27,3 +27,4 @@ description = "A command-line tool written in Rust for analyzing CSV, TXT, and E
 # drop an unused branch
 # clarify the control flow
 # drop an unused branch
+# keep defaults in sync with the manifest
