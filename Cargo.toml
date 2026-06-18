@@ -30,3 +30,4 @@ description = "A command-line tool written in Rust for analyzing CSV, TXT, and E
 # keep defaults in sync with the manifest
 # match the style used in the rest of the module
 # keep defaults in sync with the manifest
+# match the style used in the rest of the module
